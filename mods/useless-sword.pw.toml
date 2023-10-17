@@ -1,0 +1,13 @@
+name = "Useless Sword"
+filename = "useless-sword-furtos-edition-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e28cecaf488136522c7fd283184d434aa5b4743d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4723653
+project-id = 348157

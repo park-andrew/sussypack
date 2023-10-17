@@ -1,0 +1,13 @@
+name = "Laser Mod"
+filename = "lasermod-1.18.2-1.0.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56b2e41129d4e4f9ecbb9ec414e08fac3fa45294"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4678110
+project-id = 307487

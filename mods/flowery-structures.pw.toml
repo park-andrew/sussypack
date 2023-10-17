@@ -1,0 +1,13 @@
+name = "Flowery Structures"
+filename = "flowery-forge-10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51474b00ce1a7e2aff0635a1c35e0e03e57a1410"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3757309
+project-id = 599263

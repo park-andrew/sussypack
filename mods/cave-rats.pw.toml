@@ -1,0 +1,13 @@
+name = "Cave Rats"
+filename = "Cave Rats 1.1.0 - 1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36552b1d70a6569ba3872615a4a296befdabd93a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4412092
+project-id = 604106

@@ -1,0 +1,13 @@
+name = "Solar Cooker"
+filename = "solarcooker-1.18.2-1.1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31cc6e74352184f8c13b9ef1c0a50bac9f3b2672"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830562
+project-id = 436874

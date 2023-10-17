@@ -1,0 +1,13 @@
+name = "Natural Decoration"
+filename = "Natural Decoration v.1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9c397c415afcb0603e58e485fed170f62a9cc4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3866617
+project-id = 606778

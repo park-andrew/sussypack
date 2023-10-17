@@ -1,0 +1,13 @@
+name = "Difficult Raids [FORGE]"
+filename = "difficultraids-1.7.5-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88e9b72da788fdd138a30be79e3ec41df7edb816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4578894
+project-id = 599116

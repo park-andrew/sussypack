@@ -1,0 +1,13 @@
+name = "Discover Addon"
+filename = "discover-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "562ac105c950a35affff914c81b82fca048bc31a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4103643
+project-id = 657827

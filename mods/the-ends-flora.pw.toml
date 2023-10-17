@@ -1,0 +1,13 @@
+name = "The End's Flora🌻"
+filename = "End's Flora 1.18.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "475ac5363c47ffdb2d972cf295cb56b59dd962ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831361
+project-id = 563859

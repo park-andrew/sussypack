@@ -1,0 +1,13 @@
+name = "Unusual Drill"
+filename = "Unusual_Drill_1.18.2_V2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fcbf38bee3c638574374977cba66198e5560695"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3785402
+project-id = 582838

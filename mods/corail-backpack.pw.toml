@@ -1,0 +1,13 @@
+name = "Corail Backpack"
+filename = "Corail-Backpack-1.18.2-130.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad28446e19b26959d634d426cefc87ae363f7e88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3765300
+project-id = 433316

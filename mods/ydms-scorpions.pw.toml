@@ -1,0 +1,13 @@
+name = "YDM's Scorpions"
+filename = "scorpions-1-18-x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "257957bc82c161ec393a032f2e361100841512bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3764860
+project-id = 577807

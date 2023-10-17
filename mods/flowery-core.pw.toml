@@ -1,0 +1,13 @@
+name = "Flowery Core"
+filename = "flowerycore-5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c45cb69380252be10091a4595c37a900ba0776d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807987
+project-id = 608507

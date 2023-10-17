@@ -1,0 +1,13 @@
+name = "Enhanced Farming"
+filename = "Enhanced-Farming-1.18.2-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72026affa6ba54dd228cb40bfbd069e8e273df69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4412865
+project-id = 285105

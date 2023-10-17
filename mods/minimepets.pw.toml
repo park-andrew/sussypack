@@ -1,0 +1,13 @@
+name = "MiniMePets"
+filename = "minimepets-forge-1.0.1-mc1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3115edc6fa51788ae6270eb97e7f83de479c9fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3919412
+project-id = 593627
